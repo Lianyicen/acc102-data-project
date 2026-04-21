@@ -69,3 +69,4 @@ reflection_report.md
 - The dataset ends in 2007, so it is best used as a learning and portfolio project rather than a real-time decision tool.
 - Estimated total GDP is a simplified measure and should not replace official national accounts.
 - Future improvements could add newer World Bank or IMF data, industry-level indicators, and an interactive dashboard version.
+AI used:Chat GDP
